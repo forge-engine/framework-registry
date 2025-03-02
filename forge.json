@@ -24,10 +24,10 @@
                 "php": ">=8.3"
             }
         },
-        "latest": "0.1.1",
+        "latest": "publish",
         "publish": {
             "download_url": "versions/publish.zip",
-            "integrity": "1d216958d8a4839cd9578bd4700b6511de4bea6c56ec6efbdc344550915b587b",
+            "integrity": "4a9a289211e1ebd77b460ac73e12d98388de206818a8d5a72a1811a8135d72db",
             "release_date": "2025-03-02",
             "release_notes_url": "https://github.com/forge-engine/forge/blob/main/CHANGELOG.md",
             "require": {
