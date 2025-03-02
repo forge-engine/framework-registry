@@ -27,7 +27,7 @@
         "latest": "0.1.1",
         "0.1.1": {
             "download_url": "versions/0.1.1.zip",
-            "integrity": "4a9a289211e1ebd77b460ac73e12d98388de206818a8d5a72a1811a8135d72db",
+            "integrity": "79e9b3d3f26cf25556a8d9f0eb5aefa3dc42699a3ecc76471f4ad5938c2cffb4",
             "release_date": "2025-03-02",
             "release_notes_url": "https://github.com/forge-engine/forge/blob/main/CHANGELOG.md",
             "require": {
