@@ -24,6 +24,15 @@
                 "php": ">=8.3"
             }
         },
-        "latest": "0.1.0"
+        "latest": "0.1.1",
+        "0.1.1": {
+            "download_url": "versions/0.1.1.zip",
+            "integrity": "53834ab2a404792d5c0a41c26544f30627e6e3601e74e3a8feba6a709d124532",
+            "release_date": "2025-03-23",
+            "release_notes_url": "https://github.com/forge-engine/forge/blob/main/CHANGELOG.md",
+            "require": {
+                "php": ">=8.3"
+            }
+        }
     }
 }
