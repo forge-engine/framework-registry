@@ -189,7 +189,7 @@
         },
         "0.1.20": {
             "download_url": "versions/0.1.20.zip",
-            "integrity": "6d6f3c6a7bb9cbab32174ca2ed678b61071c8eea93a5afb45841f14b5e6e5fe7",
+            "integrity": "9ae88afc78597b9efbd147bee3af694ef99041e1bdd9d38169ac00812b15bf8e",
             "release_date": "2025-04-04",
             "release_notes_url": "https://github.com/forge-engine/forge/blob/main/CHANGELOG.md",
             "require": {
