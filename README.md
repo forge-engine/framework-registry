@@ -1,9 +1,26 @@
-# 📦 Forge Framework Vault!
+# 🎞️ Forge Framework Vault
 
-Hey! 👋 So, this is where all the different versions of the Forge Framework live. Think of it like a little archive or a time capsule for each release I've put out.
+Hey there! 👋
 
-Basically, if you ever need to look back at a specific version of Forge, maybe to see how things changed or even to grab an older release for some reason, this is the place to be.
+This repo is basically the **time capsule** for the Forge Framework. Every version I release gets dropped here, so if you ever want to go back in time, compare changes, or grab a specific version—this is the place.
 
-And here's a little secret: this is actually where the `php framework.php` script looks when you tell it to install the latest version of Forge, or a specific version you choose. So, it's kind of the official storage for all things Forge releases! 😉
+This is also where the `php framework.php` script looks when you run something like:
 
-It's pretty simple – just a collection of all the Forge versions, nice and organized. Feel free to have a peek around! 😊
+```bash
+php framework.php install
+```
+
+Or:
+
+```bash
+php framework.php install 0.1.1
+```
+
+So yep, this is the official vault of every Forge release. Nothing fancy, just a tidy shelf of versions, ready whenever you need them.
+
+---
+
+Forge is a personal project first—no pressure, no bloat, no hype. Built for builders who want full control. If it helps you too, awesome. Fork it, remix it, break it apart.
+
+Thanks for checking it out! 🙌
+
