@@ -252,7 +252,7 @@
         },
         "0.1.27": {
             "download_url": "versions/0.1.27.zip",
-            "integrity": "3297e9a8e9c633c8ec9951355626db18c9e3f565cbaa3a385ff5740f775f6519",
+            "integrity": "0b19ebb5a54e09fa140da5e2a6d0e676bf456d000e2ce594e00679f914a3a8c7",
             "release_date": "2025-04-13",
             "release_notes_url": "https://github.com/forge-engine/forge/blob/main/CHANGELOG.md",
             "require": {
