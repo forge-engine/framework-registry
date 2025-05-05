@@ -360,7 +360,7 @@
         },
         "0.1.40": {
             "download_url": "versions/0.1.40.zip",
-            "integrity": "a82fff11fac66178aa68d23e6a1369c46b5597ea70958063990785d60a002361",
+            "integrity": "a851009afadf00b876683dcdb23d38c9afb285532f9fa9514ea2ac67b5efd837",
             "release_date": "2025-05-05",
             "release_notes_url": "https://github.com/forge-engine/forge/blob/main/CHANGELOG.md",
             "require": {
