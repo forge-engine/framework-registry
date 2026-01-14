@@ -24,7 +24,7 @@
                 "php": ">=8.3"
             }
         },
-        "latest": "2.9.0",
+        "latest": "2.10.0",
         "0.1.1": {
             "download_url": "versions/0.1.1.zip",
             "integrity": "53834ab2a404792d5c0a41c26544f30627e6e3601e74e3a8feba6a709d124532",
@@ -982,6 +982,15 @@
         "2.9.0": {
             "download_url": "versions/2.9.0.zip",
             "integrity": "614d64af423d10b9b83ad4580752a4468d4994331afe4baf56a6398424ac5541",
+            "release_date": "2026-01-14",
+            "release_notes_url": "https://github.com/forge-engine/forge/blob/main/CHANGELOG.md",
+            "require": {
+                "php": ">=8.3"
+            }
+        },
+        "2.10.0": {
+            "download_url": "versions/2.10.0.zip",
+            "integrity": "ff714da45b92dfeb2218ef8fe11e0ccad80c0b30acebd722e56ea124ec1a4e50",
             "release_date": "2026-01-14",
             "release_notes_url": "https://github.com/forge-engine/forge/blob/main/CHANGELOG.md",
             "require": {
